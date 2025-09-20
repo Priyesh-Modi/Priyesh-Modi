@@ -8,14 +8,14 @@
 
 ## 👨🏻‍💻 About Me
 
-🎓 **Currently pursuing** Masters in Computer Software Engineering at Northeastern University, Boston  
-💼 **Former Software Engineer** at Bitblue Technology with experience in ERP systems and enterprise solutions  
-🔬 **Research Experience** in EEG signal processing and machine learning at University of Mumbai  
-🚀 **Passionate about** Cloud Computing, Full-Stack Development, and System Design  
-🌱 **Currently learning** Advanced System Design, Microservices Architecture, and MLOps  
-💡 **Love to** build scalable applications and explore cutting-edge technologies  
-📫 **Reach me at** modi.priyes@northeastern.edu  
-📄 **Check out my** [Portfolio](https://your-portfolio-link.com) for detailed projects  
+ **Currently pursuing** Masters in Computer Software Engineering at Northeastern University, Boston  
+ **Expertise in** ML, DL, GenAI, Agent Systems, and Full Stack AI Engineering
+ Tech stack spans Python, PyTorch, LangGraph, FastAPI, Docker, AWS, MongoDB, React
+
+ **Passionate about** Cloud Computing, Full-Stack Development, and System Design  
+ **Currently learning** Advanced System Design, Microservices Architecture, and MLOps  
+ **Love to** build scalable applications and explore cutting-edge technologies  
+ **Reach me at** modi.priyes@northeastern.edu  
 
 ---
 
@@ -74,38 +74,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏗️ **Automated Cloud Infrastructure Deployment**
-*Jan 2025 - Mar 2025*
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
-
-- Automated custom **Ubuntu 24.04 LTS** image creation using Packer, reducing setup time by **80%**
-- Implemented **CI/CD workflows** with GitHub Actions for secure AMI & GCP image building
-- Orchestrated infrastructure provisioning across **AWS & GCP** with Terraform
-
-### 🏠 **HomeBase - Real Estate Platform**
-*Oct 2024 - Dec 2024*
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-
-- Enabled **500+ users** to manage property listings with **40% improved efficiency**
-- Integrated secure authentication ensuring **100% data protection**
-- Optimized search functionality reducing property discovery time by **30%**
-
-### 🏥 **HealthHub - Healthcare Management System**
-*Oct 2024 - Dec 2024*
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-ED8B00?style=flat-square&logo=java&logoColor=white)
-
-- Facilitated real-time hospital connections for **100+ patients**
-- Reduced emergency response time by **40%** through location-based assistance
-- Implemented **role-based access system** for 7 distinct user roles
-
----
 
 ## 📊 GitHub Analytics
 
@@ -143,10 +111,9 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyesh-modi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyesh-modi-62b2401bb/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PriyeshModi1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:modi.priyes@northeastern.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-link.com)
 
 </div>
 
